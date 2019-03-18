@@ -5,3 +5,5 @@ welcome to my new shop
 2. mustard
 3. rice
 4. rava
+5. moong dal
+6. toor dal
